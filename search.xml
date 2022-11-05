@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>代码演示2</title>
+      <link href="/2022/12/03/%E4%BB%A3%E7%A0%81%E5%9D%97%E6%BC%94%E7%A4%BA/%E6%BC%94%E7%A4%BA2/"/>
+      <url>/2022/12/03/%E4%BB%A3%E7%A0%81%E5%9D%97%E6%BC%94%E7%A4%BA/%E6%BC%94%E7%A4%BA2/</url>
+      
+        <content type="html"><![CDATA[<h2 id="二级标题"><a href="#二级标题" class="headerlink" title="二级标题"></a>二级标题</h2><p>很多话很多话很多话很多话<br>很多话很多话很多话很多话<br>很多话很多话很多话很多话<br>很多话很多话很多话很多话<br>很多话很多话很多话很多话<br>很多话很多话很多话很多话<br>很多话很多话很多话很多话<br>很多话很多话很多话很多话</p><h3 id="3"><a href="#3" class="headerlink" title="3"></a>3</h3><figure class="highlight javascript"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">function</span> <span class="title function_">a</span> ()&#123;</span><br><span class="line">    <span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&quot;hello word&quot;</span>)</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>代码演示</title>
+      <link href="/2022/12/03/%E4%BB%A3%E7%A0%81%E5%9D%97%E6%BC%94%E7%A4%BA/%E6%BC%94%E7%A4%BA/"/>
+      <url>/2022/12/03/%E4%BB%A3%E7%A0%81%E5%9D%97%E6%BC%94%E7%A4%BA/%E6%BC%94%E7%A4%BA/</url>
+      
+        <content type="html"><![CDATA[<h2 id="二级标题"><a href="#二级标题" class="headerlink" title="二级标题"></a>二级标题</h2><p>很多话很多话很多话很多话<br>很多话很多话很多话很多话<br>很多话很多话很多话很多话<br>很多话很多话很多话很多话<br>很多话很多话很多话很多话<br>很多话很多话很多话很多话<br>很多话很多话很多话很多话<br>很多话很多话很多话很多话</p><h3 id="3"><a href="#3" class="headerlink" title="3"></a>3</h3><figure class="highlight javascript"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">function</span> <span class="title function_">a</span> ()&#123;</span><br><span class="line">    <span class="variable language_">console</span>.<span class="title function_">log</span>(<span class="string">&quot;hello word&quot;</span>)</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>图片名字</title>
+      <link href="/2022/11/04/%E5%9B%BE%E7%89%87%E5%90%8D%E5%AD%97/%E5%9B%BE%E7%89%87%E5%90%8D%E5%AD%97/"/>
+      <url>/2022/11/04/%E5%9B%BE%E7%89%87%E5%90%8D%E5%AD%97/%E5%9B%BE%E7%89%87%E5%90%8D%E5%AD%97/</url>
+      
+        <content type="html"><![CDATA[<p><img src="../../img/bg8.jpg" alt="图片名称七多少"></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>第一个文章</title>
+      <link href="/2022/11/03/%E7%AC%AC%E4%B8%80%E4%B8%AA%E6%96%87%E7%AB%A0/"/>
+      <url>/2022/11/03/%E7%AC%AC%E4%B8%80%E4%B8%AA%E6%96%87%E7%AB%A0/</url>
+      
+        <content type="html"><![CDATA[<h1 id=""><a href="#" class="headerlink" title=""></a></h1><p>第一个文章第一个文章第一个文章</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>page</title>
+      <link href="/2022/11/03/page/"/>
+      <url>/2022/11/03/page/</url>
+      
+        <content type="html"><![CDATA[<h3 id=""><a href="#" class="headerlink" title=""></a></h3><p>初始博客页面</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
+</search>
