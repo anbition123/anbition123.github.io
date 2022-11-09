@@ -17,3 +17,11 @@
 #footer{
   background: rgba(255,255,255,0)
 }
+
+#layout{
+  /* background-image: url("./img/bg9.jpg"); */
+  background-color: aqua;
+}
+#page-header:not(.not-top-img):before{
+  background-color: rgba(0,0,0,0.1) !important;
+}
